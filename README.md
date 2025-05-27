@@ -1,6 +1,7 @@
 Crie um novo projeto sobre IA, neste deverá conter 3 páginas (index, integrantes e localização)
 
 Metas para acentuação, palavra-chave e descrição
+
 Link com CSS e Ícone de aba (janela)
 
 Estrutura do html com:
